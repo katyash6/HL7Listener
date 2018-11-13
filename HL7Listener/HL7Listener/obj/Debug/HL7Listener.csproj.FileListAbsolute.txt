@@ -1,0 +1,6 @@
+c:\users\itl\documents\visual studio 2015\Projects\HL7Listener\HL7Listener\bin\Debug\HL7Listener.exe.config
+c:\users\itl\documents\visual studio 2015\Projects\HL7Listener\HL7Listener\obj\Debug\HL7Listener.csprojResolveAssemblyReference.cache
+c:\users\itl\documents\visual studio 2015\Projects\HL7Listener\HL7Listener\bin\Debug\HL7Listener.exe
+c:\users\itl\documents\visual studio 2015\Projects\HL7Listener\HL7Listener\bin\Debug\HL7Listener.pdb
+c:\users\itl\documents\visual studio 2015\Projects\HL7Listener\HL7Listener\obj\Debug\HL7Listener.exe
+c:\users\itl\documents\visual studio 2015\Projects\HL7Listener\HL7Listener\obj\Debug\HL7Listener.pdb
