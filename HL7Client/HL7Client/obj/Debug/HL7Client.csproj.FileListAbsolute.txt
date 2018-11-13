@@ -1,0 +1,5 @@
+c:\users\itl\documents\visual studio 2015\Projects\HL7Client\HL7Client\bin\Debug\HL7Client.exe.config
+c:\users\itl\documents\visual studio 2015\Projects\HL7Client\HL7Client\bin\Debug\HL7Client.exe
+c:\users\itl\documents\visual studio 2015\Projects\HL7Client\HL7Client\bin\Debug\HL7Client.pdb
+c:\users\itl\documents\visual studio 2015\Projects\HL7Client\HL7Client\obj\Debug\HL7Client.exe
+c:\users\itl\documents\visual studio 2015\Projects\HL7Client\HL7Client\obj\Debug\HL7Client.pdb
